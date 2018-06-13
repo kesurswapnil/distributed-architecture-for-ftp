@@ -13,4 +13,4 @@ Using the application:
   2. Run client and set path to directory where file to be uploaded is present.
   3. Enter -push in command prompt and it will upload the file to node server where the size of file can be best fit.
   
-  
+  NOTE: Use 'backup' to test connection between client and master node. Use 'backup_2' to test connection between slave and master server nodes.
