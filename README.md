@@ -1,4 +1,4 @@
-# distributed-architecture-for-ftp
+# Distributed FTP Architecture
 A Java based distributed client-server model that mimics the FTP protocol. Server may be a single server or a cluster of servers and files present on them can be downloaded by the client by just accessing the master server.
 
 Using the application: 
